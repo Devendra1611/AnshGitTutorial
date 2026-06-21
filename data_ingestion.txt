@@ -5,4 +5,4 @@ I am the master and let me also contribute
 
 I am fixing the bug
 
-I am ingesting batch data
+I am ingesting chunks of data
