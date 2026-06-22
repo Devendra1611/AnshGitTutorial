@@ -6,3 +6,6 @@ I am the master and let me also contribute
 I am fixing the bug
 
 I am ingesting chunks of data
+
+
+Bug fixed
